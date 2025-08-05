@@ -82,7 +82,7 @@ class AskView(APIView):
         add_to_index(question, refined)
 
         return Response({
-            "source": "perplexity",
+            "source": "local-ai",
             "question": question,
             "answer": refined
         })
