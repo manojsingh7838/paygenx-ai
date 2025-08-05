@@ -4,3 +4,4 @@ faiss-cpu
 requests
 sentence-transformers
 gunicorn
+numpy
