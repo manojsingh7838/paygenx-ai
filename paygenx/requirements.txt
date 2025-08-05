@@ -1,0 +1,6 @@
+Django
+djangorestframework
+faiss-cpu
+requests
+sentence-transformers
+gunicorn
