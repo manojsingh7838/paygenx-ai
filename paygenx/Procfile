@@ -1,1 +1,1 @@
-web: gunicorn paygenx.wsgi
+web: gunicorn paygenx.wsgi --workers=1
